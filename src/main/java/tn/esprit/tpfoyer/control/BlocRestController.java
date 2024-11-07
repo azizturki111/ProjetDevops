@@ -19,7 +19,7 @@ public class BlocRestController {
 
     IBlocService blocService;
 
-
+/////////////////////////
     //http://localhost:8089/tpfoyer/bloc/retrieve-all-blocs
 
     @GetMapping("/retrieve-all-blocs")
